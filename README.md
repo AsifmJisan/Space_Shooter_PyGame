@@ -22,10 +22,10 @@ python game.py
 ```
 
 # How to Play The Game
-W --> Up
-A --> Left
-S --> Down
-D --> Right
+W --> Up  
+A --> Left  
+S --> Down  
+D --> Right  
 SPACE --> Shoot  
 
 The constants of the game (i. e. Player Speed, Enemy Bullet Speed) can be changed in the `# settings #` section of the code. the game runs at maximum 60 FPS in a 1280x720 window. I shall keep improving the game insha'Allah.
