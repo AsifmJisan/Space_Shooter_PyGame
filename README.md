@@ -39,6 +39,6 @@ AI was used in this game but it is when I couldn't figure things out for a long 
 # Developer's Note
 This is my first successful PyGame. I am still learning. You'll definitely find mistakes in my code and may improve the code even better. Feel free to criticize the code as much as you like.  
 
-Asif Mahmud Jisan
-Dept. of Computer Science and Engineering
+Asif Mahmud Jisan  
+Dept. of Computer Science and Engineering  
 Session: 2023-2024
